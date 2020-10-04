@@ -5,8 +5,4 @@
     3. Library support is huge
     4. Wide applications
 
-    Data science:
-    1. NumPy
-    2. Pandas
-    3. MatPlotLib
-    
+Thank You!!
