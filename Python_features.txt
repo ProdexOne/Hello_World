@@ -8,5 +8,5 @@
     Data science:
     1. NumPy
     2. Pandas
-    
+    3. MatPlotLib
     
